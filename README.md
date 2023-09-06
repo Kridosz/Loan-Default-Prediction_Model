@@ -14,7 +14,9 @@ This repository contains a machine learning project that focuses on predicting l
 The loan prediction project aims to address the challenge of assessing the creditworthiness of loan applicants. It utilizes various machine learning algorithms to build predictive models that evaluate the likelihood of a loan being paid back or defaulted. These models can help financial institutions mitigate risks and make lending decisions that are both profitable and secure.
 
 ## Dataset
-The project uses a dataset that contains historical information about loans, including applicant details, loan terms, and loan status (whether the loan was fully paid or charged off). This dataset is crucial for training and testing the machine learning models.
+The project uses a dataset that contains historical information about loans, including applicant details, loan terms, and loan status (whether the loan was fully paid or charged off). This dataset is crucial for training and testing the machine learning models. 
+
+Dataset Link: https://www.kaggle.com/datasets/wordsforthewise/lending-club?datasetId=902&sortBy=voteCount
 
 ## Installation
 To run the project locally, follow these steps:
